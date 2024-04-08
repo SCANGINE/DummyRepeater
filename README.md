@@ -7,6 +7,7 @@ It can record and repeate keyboard and mouse events in a loop
 Great and simple tool for automating some tasks or games.
 
 FEATURES
+
 ★ Record keyboard and mouse events
 ★ Replay record in loop
 ★ Repeat keys with adjustable speed.
